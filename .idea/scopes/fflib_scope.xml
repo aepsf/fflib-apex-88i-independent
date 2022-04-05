@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="fflib-scope" pattern="file:main//fflib_*.cls" />
+</component>
