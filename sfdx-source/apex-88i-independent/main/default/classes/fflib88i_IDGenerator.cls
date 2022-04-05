@@ -23,13 +23,16 @@
  * OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
-public with sharing class fflib_IDGenerator
+@SuppressWarnings('PMD.ClassNamingConventions')
+public with sharing class fflib88i_IDGenerator
 {
     private static Integer fakeIdCount = 0;
     private static final String ID_PATTERN = '000000000000';
 
     /**
      * Generate a fake Salesforce Id for the given SObjectType
+     *
+     * @return Id a fake Salesforce Id for testing
      */
     public static Id generate(Schema.SObjectType sobjectType)
     {
