@@ -29,8 +29,10 @@
  * OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
  * OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
+@SuppressWarnings('PMD.ClassNamingConventions')
 public inherited sharing class fflib88i_SOQL
 {
+    @SuppressWarnings('PMD.ExcessiveParameterList')
     public static String create(
             String fieldsShared,
             String fieldsInMethodOnly,

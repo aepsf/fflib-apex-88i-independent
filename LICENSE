@@ -1,6 +1,8 @@
 Apex Class file names:
 fflib88i_RecordType.cls
 fflib88i_RecordTypeTest.cls
+fflib88i_SOQL.cls
+fflib88i_SOQLTest.cls
 
 BSD 3-Clause License
 
@@ -33,8 +35,10 @@ OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 -----------------------------------------------------------------------------
 Apex Class file names:
-fflib_IDGenerator.cls
-fflib_IDGeneratorTest.cls
+fflib88i_IDGenerator.cls (original file name: fflib_IDGenerator.cls)
+fflib88i_IDGeneratorTest.cls (original file name: fflib_IDGeneratorTest.cls)
+Original repository:
+https://github.com/apex-enterprise-patterns/fflib-apex-mocks
 
 Copyright (c), FinancialForce.com, inc
 All rights reserved.
