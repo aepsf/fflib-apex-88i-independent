@@ -4,10 +4,10 @@
     <option name="connections">
       <list>
         <IlluminatedCloudConnection>
-          <option name="connectionName" value="ff88i530" />
+          <option name="connectionName" value="i405a" />
           <option name="connectionType" value="SFDX" />
           <option name="defaultModuleName" value="fflib-apex-88i-independent" />
-          <option name="offlineSymbolTablePath" value="$PROJECT_DIR$/IlluminatedCloud/ff88i530/OfflineSymbolTable.zip" />
+          <option name="offlineSymbolTablePath" value="$PROJECT_DIR$/IlluminatedCloud/i405a/OfflineSymbolTable.zip" />
         </IlluminatedCloudConnection>
       </list>
     </option>

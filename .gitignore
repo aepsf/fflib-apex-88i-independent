@@ -56,3 +56,6 @@ sfdx-source/apex-extensions-examples
 sfdx-source/apex-88-dependent
 sfdx-source/apex-88-dependent-examples
 sfdx-source/apex-88i-independent-examples
+
+# Ignore .idea/sonarlint
+.idea/sonarlint

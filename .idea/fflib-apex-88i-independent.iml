@@ -3,7 +3,7 @@
   <component name="FacetManager">
     <facet type="IlluminatedCloud" name="Illuminated Cloud">
       <configuration>
-        <option name="connectionName" value="ff88i530" />
+        <option name="connectionName" value="i405a" />
         <option name="connectionType" value="SFDX" />
         <option name="moduleContents">
           <ModuleContents>
@@ -27,7 +27,7 @@
     <content url="file://$MODULE_DIR$/sfdx-source/apex-88i-independent">
       <sourceFolder url="file://$MODULE_DIR$/sfdx-source/apex-88i-independent/main/default" isTestSource="false" />
     </content>
-    <orderEntry type="jdk" jdkName="IlluminatedCloud (fflib-apex-88i-independent/ff88i530)" jdkType="IlluminatedCloud" />
+    <orderEntry type="jdk" jdkName="IlluminatedCloud (fflib-apex-88i-independent/i405a)" jdkType="IlluminatedCloud" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
