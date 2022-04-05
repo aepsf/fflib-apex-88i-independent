@@ -1,0 +1,8 @@
+<component name="CopyrightManager">
+  <settings default="BSD3PL">
+    <module2copyright>
+      <element module="BSD3PL-scope" copyright="BSD3PL" />
+      <element module="fflib-scope" copyright="fflib" />
+    </module2copyright>
+  </settings>
+</component>
